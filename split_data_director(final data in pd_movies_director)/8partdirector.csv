@@ -1,0 +1,574 @@
+MOVID,director
+5669.0,Michael Moore
+5670.0,Christian Charles
+5672.0,Kunihiko Yuyama
+5673.0,Paul Thomas Anderson
+5675.0,Guy Ritchie
+5678.0,Ronny Yu
+5679.0,Gore Verbinski
+5680.0,Paul Schrader
+5682.0,Tim Blake Nelson
+5684.0,Godfrey Reggio
+5685.0,Patricia Cardoso
+5688.0,Hilary Birmingham
+5689.0,Robert Benton
+5690.0,Isao Takahata
+5693.0,John Badham
+5694.0,Sylvester Stallone
+5696.0,James Bridges
+5699.0,William Wiard
+5700.0,Alberto De Martino
+5704.0,Greydon Clark
+5706.0,Robert Aldrich
+5707.0,Sydney Pollack
+5710.0,Steno
+5712.0,Brian De Palma
+5720.0,Sergio Corbucci
+5721.0,Jeremy Kagan
+5723.0,Michael Apted
+5733.0,Peter Yates
+5735.0,John Alan Schwartz
+5736.0,John Alan Schwartz
+5741.0,François Truffaut
+5742.0,Ronald Neame
+5745.0,Alan Alda
+5746.0,Bruce D. Clark
+5747.0,Peter Weir
+5749.0,John Irvin
+5752.0,Bill Forsyth
+5755.0,J. Lee Thompson
+5764.0,Michael Crichton
+5767.0,Stanislaw Bareja
+5768.0,Ken Shapiro
+5771.0,George Mihalka
+5772.0,Louis Malle
+5773.0,John G. Avildsen
+5779.0,James Cameron
+5780.0,John Waters
+5782.0,Georges Lautner
+5784.0,Steve Beck
+5785.0,Jeff Tremaine
+5786.0,Charles Stone III
+5787.0,Jonathan Demme
+5788.0,Mike Leigh
+5791.0,Julie Taymor
+5792.0,Dylan Kidd
+5796.0,Val Guest
+5797.0,Neil Jordan
+5799.0,Otto Preminger
+5801.0,Norman Jewison
+5802.0,George Roy Hill
+5803.0,Betty Thomas
+5804.0,Michael Lembeck
+5809.0,Brian De Palma
+5810.0,Curtis Hanson
+5812.0,Todd Haynes
+5816.0,Chris Columbus
+5817.0,Atom Egoyan
+5818.0,Carlos Carrera
+5820.0,Paul Justman
+5826.0,John Ford
+5828.0,Steven Vidler
+5829.0,Paul Gross
+5833.0,Neil Marshall
+5836.0,Melville Shavelson
+5838.0,Claude Chabrol
+5839.0,Yves Robert
+5840.0,Yves Robert
+5841.0,William A. Graham
+5843.0,Daniel Petrie Jr.
+5847.0,Milos Forman
+5849.0,Massimo Troisi
+5853.0,David Cronenberg
+5856.0,Emir Kusturica
+5863.0,Gus Trikonis
+5867.0,Michael Mann
+5872.0,Lee Tamahori
+5873.0,Michael Hoffman
+5874.0,Marcus Raboy
+5875.0,Rebecca Miller
+5876.0,Phillip Noyce
+5878.0,Pedro Almodóvar
+5879.0,Seth Kearsley
+5880.0,Christian Duguay
+5881.0,Steven Soderbergh
+5882.0,Ron Clements
+5883.0,Robert Harmon
+5884.0,Dan Hoskins
+5888.0,Aleksey Balabanov
+5889.0,Eldar Ryazanov
+5890.0,Petter Næss
+5891.0,Meir Zarchi
+5893.0,John Dahl
+5896.0,Allan Moyle
+5899.0,Cy Endfield
+5900.0,Harold Ramis
+5901.0,Franc. Reyes
+5902.0,Spike Jonze
+5903.0,Kurt Wimmer
+5909.0,Takashi Miike
+5912.0,Juliusz Machulski
+5915.0,John Huston
+5919.0,Aaron Lipstadt
+5922.0,Franco Castellano
+5925.0,Philippe Mora
+5927.0,Colin Higgins
+5929.0,Claude Pinoteau
+5932.0,Les Blank
+5938.0,Sidney Lumet
+5941.0,Charles Stone III
+5942.0,Tom Brady
+5943.0,Wayne Wang
+5944.0,Stuart Baird
+5945.0,Alexander Payne
+5947.0,Bruce Beresford
+5949.0,Juan Carlos Fresnadillo
+5951.0,Lynne Ramsay
+5952.0,Peter Jackson
+5953.0,Wen Jiang
+5954.0,Spike Lee
+5955.0,Denzel Washington
+5956.0,Martin Scorsese
+5957.0,Marc Lawrence
+5959.0,Joe Carnahan
+5961.0,Kathryn Bigelow
+5962.0,Uli Edel
+5963.0,William Wyler
+5965.0,Ridley Scott
+5968.0,George Armitage
+5969.0,Howard Zieff
+5970.0,Howard Zieff
+5971.0,Hayao Miyazaki
+5974.0,Ludwig Berger
+5975.0,King Vidor
+5979.0,Roger Corman
+5980.0,Bob Clark
+5984.0,Just Jaeckin
+5986.0,John Huston
+5988.0,Thomas Michael Donnelly
+5989.0,Steven Spielberg
+5990.0,Roberto Benigni
+5991.0,Rob Marshall
+5992.0,Stephen Daldry
+5993.0,Menno Meyjes
+5994.0,Douglas McGrath
+5995.0,Roman Polanski
+5999.0,Michael Coldewey
+6001.0,Martin Scorsese
+6002.0,Todd Louiso
+6003.0,George Clooney
+6005.0,C.B. Harding
+6006.0,Shawn Levy
+6009.0,Takashi Miike
+6012.0,Chris Koch
+6013.0,David McNally
+6014.0,Dennis Dugan
+6016.0,Fernando Meirelles
+6020.0,George Stevens
+6021.0,Wim Wenders
+6022.0,Edward James Olmos
+6023.0,Jean-Luc Godard
+6025.0,Tamra Davis
+6027.0,Nancy Savoca
+6030.0,Norman Taurog
+6031.0,Douglas Sirk
+6033.0,Jonathan Wacks
+6035.0,Julien Duvivier
+6036.0,David Greenwalt
+6039.0,Gene Wilder
+6040.0,Jonathan Liebesman
+6041.0,Costa-Gavras
+6042.0,André Heller
+6044.0,Nico Mastorakis
+6049.0,John Madden
+6051.0,Perry Henzell
+6055.0,Leon Ichaso
+6057.0,Reggie Rock Bythewood
+6058.0,David R. Ellis
+6059.0,Roger Donaldson
+6060.0,Daisy von Scherler Mayer
+6062.0,Keith Fulton
+6063.0,Lucky McKee
+6064.0,Mark Robson
+6067.0,Thaddeus O'Sullivan
+6070.0,Ryû Murakami
+6078.0,Clint Eastwood
+6086.0,Richard T. Heffron
+6090.0,Robert Mulligan
+6093.0,Jules Bass
+6095.0,Jackie Chan
+6100.0,Woody Allen
+6101.0,Costa-Gavras
+6104.0,Terry Hughes
+6107.0,Paolo Taviani
+6111.0,Stuart Gillard
+6116.0,Ken Annakin
+6119.0,Jean-Marie Poiré
+6122.0,Joe Layton
+6123.0,Chris Marker
+6124.0,Pierre De Moro
+6125.0,Roger Graef
+6140.0,Dario Argento
+6141.0,Elliott Hong
+6143.0,Blake Edwards
+6145.0,Piers Haggard
+6148.0,Samuel Fuller
+6153.0,Robert J. Rosenthal
+6155.0,Donald Petrie
+6156.0,David Dobkin
+6157.0,Mark Steven Johnson
+6158.0,Steve Trenbirth
+6159.0,David Gordon Green
+6162.0,Gus Van Sant
+6163.0,Laetitia Colombani
+6166.0,Nick Castle
+6169.0,Robert Dalva
+6170.0,Carroll Ballard
+6178.0,Guy Green
+6181.0,John Huston
+6182.0,Norman Jewison
+6183.0,Michael Gordon
+6184.0,Nicolas Roeg
+6185.0,Ron Shelton
+6186.0,Ron Maxwell
+6187.0,Alan Parker
+6188.0,Todd Phillips
+6192.0,Susanne Bier
+6193.0,Mars Callahan
+6195.0,Mark Moskowitz
+6196.0,Andrzej Bartkowiak
+6197.0,David Cronenberg
+6201.0,Trevor Nunn
+6202.0,Dover Koshashvili
+6203.0,Mel Brooks
+6204.0,Robert Townsend
+6210.0,Tae-gyun Kim
+6212.0,Adam Shankman
+6213.0,Antoine Fuqua
+6214.0,Gaspar Noé
+6215.0,Lisa Cholodenko
+6216.0,Caroline Link
+6217.0,Rose Troche
+6218.0,Gurinder Chadha
+6219.0,William Friedkin
+6220.0,Glen Morgan
+6222.0,Erik Skjoldbjærg
+6223.0,Jonas Åkerlund
+6225.0,Nicholas Ray
+6228.0,George Stevens
+6232.0,James Hill
+6234.0,Sidney Lumet
+6235.0,Agnieszka Holland
+6237.0,Anthony Mann
+6238.0,Peter Weir
+6239.0,Henry Levin
+6241.0,Éric Rohmer
+6242.0,Hideo Nakata
+6244.0,Mira Nair
+6245.0,Bob Fosse
+6246.0,Robert M. Young
+6249.0,Mort Nathan
+6250.0,Lawrence Kasdan
+6251.0,Francis Glebas
+6252.0,Bruno Barreto
+6254.0,Leo McCarey
+6263.0,John McTiernan
+6264.0,Jon Amiel
+6265.0,Chris Rock
+6266.0,Dennie Gordon
+6267.0,Robert Duvall
+6268.0,Peter Sollett
+6269.0,Steve James
+6270.0,Akira Kurosawa
+6271.0,François Truffaut
+6273.0,Nicholas Ray
+6279.0,Neil Jordan
+6280.0,F. Gary Gray
+6281.0,Joel Schumacher
+6283.0,Shin'ichirô Watanabe
+6285.0,Ed Solomon
+6286.0,Aki Kaurismäki
+6287.0,Peter Segal
+6288.0,Justin Lin
+6289.0,James Cameron
+6290.0,Rob Zombie
+6291.0,Lukas Moodysson
+6294.0,Paul Hunter
+6295.0,Linda Mendoza
+6296.0,Christopher Guest
+6297.0,Andrew Davis
+6298.0,John Whitesell
+6299.0,Jacques Perrin
+6300.0,Anders Thomas Jensen
+6301.0,Sam Peckinpah
+6302.0,Bert I. Gordon
+6303.0,Robert Wise
+6305.0,François Truffaut
+6306.0,Sam Jones
+6308.0,Ivan Reitman
+6310.0,Henry Winkler
+6313.0,Carl Reiner
+6314.0,Herbert Ross
+6315.0,Michael Ritchie
+6316.0,Sidney Lumet
+6319.0,Gérard Lauzier
+6320.0,Paul Mazursky
+6322.0,James Foley
+6323.0,James Mangold
+6324.0,Fred Schepisi
+6327.0,Ted Demme
+6329.0,Jordan Melamed
+6330.0,Daniel Algrant
+6331.0,Jeffrey Blitz
+6332.0,Jim Fall
+6333.0,Bryan Singer
+6334.0,Karen Moncrieff
+6335.0,John Malkovich
+6336.0,Bahman Ghobadi
+6337.0,Richard Kwietniowski
+6338.0,Steve Carr
+6339.0,Patrice Leconte
+6341.0,Neil LaBute
+6342.0,Miles Swain
+6344.0,Baltasar Kormákur
+6345.0,Richard Attenborough
+6347.0,Stan Lathan
+6348.0,Sam Firstenberg
+6349.0,Joel Silberg
+6350.0,Hayao Miyazaki
+6357.0,Charles Walters
+6358.0,George Sidney
+6365.0,Lana Wachowski
+6367.0,Peyton Reed
+6368.0,Angela Christlieb
+6370.0,Cédric Klapisch
+6371.0,Jim Malone
+6373.0,Tom Shadyac
+6374.0,Andrew Fleming
+6375.0,AJ Schnack
+6376.0,Emanuele Crialese
+6377.0,Andrew Stanton
+6378.0,F. Gary Gray
+6379.0,Rob Schmidt
+6380.0,Andrew Jarecki
+6382.0,Kaige Chen
+6383.0,John Singleton
+6385.0,Niki Caro
+6386.0,Henry Hathaway
+6387.0,John Woo
+6390.0,Rouben Mamoulian
+6395.0,George A. Romero
+6400.0,Jean-Xavier de Lestrade
+6402.0,John Polson
+6405.0,Byron Haskin
+6407.0,Charles Walters
+6408.0,Jamie Uys
+6410.0,Michael Schultz
+6412.0,George Marshall
+6415.0,Federico Fellini
+6417.0,Christian Duguay
+6422.0,Andrew V. McLaglen
+6424.0,John Landis
+6425.0,Randall Miller
+6427.0,Lionel Jeffries
+6428.0,Don Siegel
+6429.0,Anthony Mann
+6433.0,Dziga Vertov
+6434.0,Raoul Walsh
+6436.0,Michael Caton-Jones
+6440.0,Joel Coen
+6442.0,Fernando Trueba
+6448.0,Robert Aldrich
+6449.0,Mark Robson
+6452.0,Martin Ritt
+6453.0,Robert J. Flaherty
+6454.0,Costa-Gavras
+6460.0,Orson Welles
+6461.0,John Huston
+6464.0,Brian Robbins
+6465.0,Derek Jarman
+6466.0,Mira Nair
+6476.0,Wolfgang Petersen
+6477.0,Henry King
+6480.0,George Roy Hill
+6482.0,Troy Miller
+6483.0,Robert Iscove
+6484.0,Ron Shelton
+6493.0,Rob Reiner
+6502.0,Danny Boyle
+6503.0,McG
+6506.0,Johnnie To
+6509.0,Rainer Werner Fassbinder
+6510.0,Michael Steinberg
+6514.0,Clark L. Paylow
+6515.0,Fritz Lang
+6516.0,Anatole Litvak
+6517.0,Arthur Hiller
+6523.0,Fred Schepisi
+6527.0,George Sidney
+6528.0,Bud Yorkin
+6530.0,Roman Polanski
+6533.0,Peter Bogdanovich
+6534.0,Ang Lee
+6535.0,Charles Herman-Wurmfeld
+6536.0,Patrick Gilmore
+6537.0,Jonathan Mostow
+6538.0,François Ozon
+6539.0,Gore Verbinski
+6541.0,Stephen Norrington
+6542.0,Aleksandr Rogozhkin
+6545.0,Tim Fywell
+6547.0,Michael Polish
+6548.0,Michael Bay
+6549.0,Clare Kilner
+6550.0,Peter Howitt
+6551.0,Jordan Susman
+6552.0,Stephen Frears
+6553.0,Matteo Garrone
+6554.0,Alex Proyas
+6557.0,John Gray
+6558.0,John Hughes
+6559.0,Duwayne Dunham
+6560.0,Bob Clark
+6561.0,Jack Arnold
+6563.0,Larry Charles
+6564.0,Jan de Bont
+6565.0,Gary Ross
+6566.0,Robert Rodriguez
+6567.0,Gregor Jordan
+6568.0,Todd Graff
+6571.0,Fernando León de Aranoa
+6572.0,Gavin Grazer
+6573.0,Billy Wilder
+6574.0,Duncan Gibbins
+6577.0,Albert Pyun
+6578.0,Billy Wilder
+6579.0,Billy Wilder
+6581.0,Billy Wilder
+6582.0,Guy Hamilton
+6583.0,David Webb Peoples
+6584.0,Woody Allen
+6586.0,Jesse Dylan
+6587.0,Martin Brest
+6588.0,Claude Lelouch
+6591.0,Peter Mullan
+6592.0,Alan Rudolph
+6593.0,Mark Waters
+6595.0,Clark Johnson
+6596.0,James Ivory
+6597.0,Shinsuke Sato
+6598.0,Dana Brown
+6603.0,George Cukor
+6604.0,Pier Paolo Pasolini
+6609.0,Pier Paolo Pasolini
+6611.0,Vittorio De Sica
+6612.0,Joe Berlinger
+6614.0,Lawrence Kasdan
+6615.0,Ronny Yu
+6616.0,Casey La Scala
+6617.0,Kevin Costner
+6618.0,Stephen Chow
+6619.0,Boaz Yakin
+6620.0,Shari Springer Berman
+6624.0,Harald Zwart
+6625.0,Jonathan Prince
+6628.0,Peter Markle
+6629.0,André De Toth
+6631.0,John Lafia
+6636.0,Rob Reiner
+6638.0,Martha Coolidge
+6639.0,Terence Young
+6643.0,Yasujirô Ozu
+6644.0,Éric Rohmer
+6645.0,George Lucas
+6650.0,Robert Hamer
+6654.0,Ishirô Honda
+6656.0,Bert I. Gordon
+6658.0,Blake Edwards
+6659.0,Ron Underwood
+6660.0,Michael Powell
+6662.0,Blake Edwards
+6663.0,Blake Edwards
+6664.0,Mark L. Lester
+6665.0,John Badham
+6666.0,Luis Buñuel
+6667.0,William Gazecki
+6668.0,Yimou Zhang
+6669.0,Akira Kurosawa
+6670.0,James Robinson
+6671.0,Jane Campion
+6678.0,Volker Schlöndorff
+6679.0,J.T.S. Moore
+6684.0,Luchino Visconti
+6686.0,Gordon Chan
+6687.0,David Zucker
+6688.0,Vladimír Michálek
+6689.0,Efram Potelle
+6691.0,Milcho Manchevski
+6692.0,Helen Stickler
+6695.0,Victor Salva
+6696.0,Deepa Mehta
+6699.0,Shane Meadows
+6702.0,Sam Weisman
+6705.0,Fenton Bailey
+6706.0,István Szabó
+6707.0,Eli Roth
+6708.0,Ridley Scott
+6709.0,Robert Rodriguez
+6710.0,Greg Pritikin
+6711.0,Sofia Coppola
+6713.0,Satoshi Kon
+6715.0,Tony Randel
+6718.0,Jeff Kanew
+6720.0,Bruce A. Evans
+6721.0,Hark Tsui
+6722.0,Hark Tsui
+6723.0,Hark Tsui
+6724.0,Peter Bogdanovich
+6731.0,George A. Romero
+6732.0,Gene Kelly
+6734.0,John Carpenter
+6744.0,Howard Storm
+6746.0,Jeff Lieberman
+6748.0,David Cronenberg
+6750.0,Woody Allen
+6751.0,Mike Figgis
+6752.0,Jonathan Lynn
+6753.0,Tim McCanlies
+6754.0,Len Wiseman
+6755.0,Don Coscarelli
+6760.0,Michael Winterbottom
+6763.0,Danny DeVito
+6764.0,Peter Berg
+6765.0,Audrey Wells
+6768.0,Eric Till
+6769.0,Émile Gaudreault
+6770.0,Isabel Coixet
+6772.0,Nicolas Philibert
+6773.0,Sylvain Chomet
+6774.0,David Cronenberg
+6775.0,Stephanie Black
+6776.0,Ashutosh Gowariker
+6777.0,Stanley Kramer
+6780.0,Errol Morris
+6782.0,Aki Kaurismäki
+6783.0,Jean Renoir
+6785.0,Stanley Donen
+6786.0,Hector Babenco
+6787.0,Alan J. Pakula
+6788.0,Martha Coolidge
+6789.0,Gilles Mimouni
+6790.0,Mamoru Oshii
+6791.0,Gabriel Axel
+6793.0,Brian Levant
+6794.0,Rod Daniel
+6796.0,John Singleton
+6797.0,Barry Levinson
+6798.0,Alan Parker
+6800.0,George P. Cosmatos
+6803.0,Dario Argento
+6804.0,Sam Raimi
+6807.0,Terry Jones
+6808.0,Brian G. Hutton
+6809.0,Richard Tuggle
+6810.0,Joseph Ruben
